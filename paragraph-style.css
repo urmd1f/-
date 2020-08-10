@@ -17,6 +17,9 @@ body {
    font-size: 33px;
    text-align: center;
  }
+ img {
+   float:right;
+ }
  .saw {
    color:purple;
  }
